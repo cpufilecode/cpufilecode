@@ -3,11 +3,11 @@
 
 보안을 꿈꾸는 사람이며 이외에도 여러가지 코드를 분석하고 개발하는 유저입니다.
 
-#### use Language & tools
+#### USE Language & tools
 ##### Language
 
 ##### Tools
-
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/> 
 ## 개발 List
 ### 자판기
 * C version (개발중)
