@@ -18,7 +18,7 @@
 ### Development list
 #### 자판기
 * C version (개발중)
-* C++ version (개발중)
+* [C++ version](https://github.com/cpu04/Vending_machine_cplus.ver)
 * [JAVA version](https://github.com/cpu04/Vending_machine_java.ver)
 * [Python version](https://github.com/cpu04/Vending_machine_python.ver)
 * C# version (개발중)
