@@ -15,13 +15,3 @@
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white"/> 
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
 
-### Development list
-#### 자판기
-* [C version](https://github.com/cpu04/Vending_machine_c.ver)
-* [C++ version](https://github.com/cpu04/Vending_machine_cplus.ver)
-* [JAVA version](https://github.com/cpu04/Vending_machine_java.ver)
-* [Python version](https://github.com/cpu04/Vending_machine_python.ver)
-* C# version (개발중)
-
-***
-이외에도 여러가지 개발 예정입니다.
