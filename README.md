@@ -1,4 +1,4 @@
-# Introduction myself
+# github of cpu04
 안녕하세요 cpu 입니다.
 
 보안을 공부하는 사람이며 이외에도 여러가지 코드를 분석하고 개발하는 유저입니다.
