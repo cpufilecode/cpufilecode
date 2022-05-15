@@ -15,5 +15,5 @@
  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
 </div>
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpu04&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpu04&langs_count=10&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpu04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
